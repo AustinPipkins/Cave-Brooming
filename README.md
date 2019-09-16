@@ -1,5 +1,8 @@
 Austin Pipkins python project
+
 **CAVE BROOMING**
+
+This python projet was made on 6-9-19 as a personal project to test out the graphics package graphics.py
 
 **How to play**
 
