@@ -14,6 +14,7 @@ The gray number tiles represent spaces with at least one bomb in one of the surr
 Your job is to explore the whole grid and flagging the bombs.
 
 To flag a bomb, press the place flag button in the top-right, and click the suspected bomb location.
+<br />
 
 **Additional Features**
 
