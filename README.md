@@ -43,7 +43,7 @@ To flag a bomb, press the place flag button in the top-right, and click the susp
 
 <br>
 **Picture of loss**<br>
-![l](/caveboom.png)
+![](caveboom.png)
    
      
   
