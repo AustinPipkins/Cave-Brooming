@@ -37,6 +37,9 @@ To flag a bomb, press the place flag button in the top-right, and click the susp
     Displays the number of flags that have been placed and the number of bombs on the board.
     
     *The total number of bombs will always be 50, as this is hardcoded, but can be changed.
+    
+**Video**
+![](Cave-Brooming.gif)
    
      
   
