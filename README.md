@@ -38,12 +38,14 @@ To flag a bomb, press the place flag button in the top-right, and click the susp
     
     *The total number of bombs will always be 50, as this is hardcoded, but can be changed.
     
+    
+![](caveboom.png)
 **Video**<br>
 ![](Cave-Brooming.gif)
 
 <br>
 **Picture of loss**<br>
-![](caveboom.png)
+ 
    
      
   
