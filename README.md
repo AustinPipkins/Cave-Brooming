@@ -40,6 +40,10 @@ To flag a bomb, press the place flag button in the top-right, and click the susp
     
 **Video**<br>
 ![](Cave-Brooming.gif)
+
+<br>
+**Picture of loss**
+![](caveboom.png)
    
      
   
